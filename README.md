@@ -1,1 +1,3 @@
 # CompileExperiment_myLexer
+一个简单的词法分析器
+详细的介绍可见实验报告文件
